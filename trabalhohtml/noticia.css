@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: purple; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+ ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+    
+ }
+p  {
+    color: blue;
+    font-size: 16px;
+}
+li {
+  
+    padding: 16px;
+   }
+img {
+    max-width:400px;
+    max-height:400px;
+    width: auto;
+    height: auto;
+    
+
+
+
+
+
+   }
+video {
+      width: 600px; ;
+      
+
+
+
+} 
